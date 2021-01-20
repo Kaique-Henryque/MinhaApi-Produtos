@@ -1,0 +1,12 @@
+C:\Kaique\ESTAGIO\testebackend\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+C:\Kaique\ESTAGIO\testebackend\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Kaique\ESTAGIO\testebackend\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Kaique\ESTAGIO\testebackend\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Kaique\ESTAGIO\testebackend\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Kaique\ESTAGIO\testebackend\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
+C:\Kaique\ESTAGIO\testebackend\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+C:\Kaique\ESTAGIO\testebackend\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+C:\Kaique\ESTAGIO\testebackend\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Kaique\ESTAGIO\testebackend\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+C:\Kaique\ESTAGIO\testebackend\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Kaique\ESTAGIO\testebackend\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb

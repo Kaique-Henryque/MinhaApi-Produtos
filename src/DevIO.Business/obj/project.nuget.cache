@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IJkaLGxz2vRokdNQ/ytGTdWWDkuTMZ1YBamTii2Hpxos5UDxVL4UQPUGj7IQkXe80Cx0ebZeRLeuKJXo5Nee+g==",
+  "success": true,
+  "projectFilePath": "C:\\Kaique\\ESTAGIO\\testebackend\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaique\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\Kaique\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
